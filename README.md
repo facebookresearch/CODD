@@ -11,11 +11,12 @@ WACV 2023.
 If you find CODD relevant, please cite
 
 ```
-@article{li2021temporally,
-  title={Temporally Consistent Online Depth Estimation in Dynamic Scenes},
+@inproceedings{li2023temporally,
+  title={Temporally consistent online depth estimation in dynamic scenes},
   author={Li, Zhaoshuo and Ye, Wei and Wang, Dilin and Creighton, Francis X and Taylor, Russell H and Venkatesh, Ganesh and Unberath, Mathias},
-   journal={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-   year={2023}
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={3018--3027},
+  year={2023}
 }
 ```
 
