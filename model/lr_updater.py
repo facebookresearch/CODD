@@ -1,5 +1,5 @@
 from mmcv.runner import HOOKS, LrUpdaterHook
-
+import mmcv
 
 @HOOKS.register_module()
 class MultiGammaLrUpdaterHook(LrUpdaterHook):
